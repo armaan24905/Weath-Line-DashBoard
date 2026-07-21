@@ -28,7 +28,7 @@ This project was built to demonstrate **end-to-end frontend engineering skill**:
 
 | Dashboard | Analytics | Prediction |
 |---|---|---|
-| *Screenshot 1* | *Screenshot 2* | *Screenshot 3* |
+| *Screenshot 1*(https://github.com/armaan24905/Weath-Line-DashBoard/blob/59b6f328ae8883493431eef6c15e11c177d378c8/assets/Screenshot%201.png) | *Screenshot 2* | *Screenshot 3* |
 
 > 💡 Replace the placeholders above with actual screenshots/GIFs from `/assets` once added.
 
