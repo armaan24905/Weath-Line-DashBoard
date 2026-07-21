@@ -10,7 +10,7 @@ A premium, full-featured personal finance dashboard built with a luxury dark-mod
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-C8A96A?style=for-the-badge)](#-license)
 
-[🔗 Live Demo](#) · [🐛 Report Bug](#) · [✨ Request Feature](#)
+[🔗 Live Demo](https://armaan24905.github.io/Weath-Line-DashBoard/Wealth-Tracking-DashBoard.html) · [🐛 Report Bug](#) · [✨ Request Feature](#)
 
 ---
 
@@ -96,7 +96,7 @@ This project was built to demonstrate **end-to-end frontend engineering skill**:
 ```
 wealthline/
 │
-├── wealthline-dashboard.html   # Single-file application (HTML + CSS + JS)
+├── Wealth-Tracking-DashBoard.html   # Single-file application (HTML + CSS + JS)
 ├── assets/                     # Screenshots, demo GIFs, preview images
 ├── README.md                   # You are here 📍
 └── LICENSE
